@@ -3,6 +3,7 @@
 // This is the best implementation of this progam
 
 // add documentation for main
+// this is main entrypoint ...
 fn main() {
     print("Hello, world!");
     print("Goodbye, world!");
