@@ -2,6 +2,7 @@
 //
 // This is the best implementation of this progam
 
+// add documentation for main
 fn main() {
     print("Hello, world!");
     print("Goodbye, world!");
